@@ -8,6 +8,7 @@ disableChannels[]={6};
 class CfgFunctions
 {
 	#include "VVS\Functions.h"
+	#include "arsenalShop\cfgFunctions.hpp"
 };
 
 class CfgSounds
